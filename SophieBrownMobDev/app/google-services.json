@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "884355356151",
+    "firebase_url": "https://mobdev-assignment-1.firebaseio.com",
+    "project_id": "mobdev-assignment-1",
+    "storage_bucket": "mobdev-assignment-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884355356151:android:24a7d21ba0e192b5",
+        "android_client_info": {
+          "package_name": "com.example.sophie.sensorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884355356151-6oo1esrj8ve0pj14vjihs8n2ac730u78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sophie.sensorapp",
+            "certificate_hash": "1417AAEC401283EC32492154CC21272F3961DAE0"
+          }
+        },
+        {
+          "client_id": "884355356151-kaq7ei7red7l2nr4atvl0mdv6jj3t33n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbO5kzi51_l71hzxWc6fsTSC1mdcpYxDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884355356151-kaq7ei7red7l2nr4atvl0mdv6jj3t33n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="view_leaderboard">View Leaderboard</string>
+    <string name="textview">TextView</string>
+    <string name="exit_game">Exit Game</string>
+    <string name="difficulty_select">Welcome to Space Flight! Please select a difficulty level.</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="difficultyBundleKey">difficulty</string>
+    <string name="scoreBundleKey">Score</string>
+    <string name="congratulations">"Congratulations! Your score is: %1$d"</string>
+    <string name="space_flight_leaderboard">Space Flight Leaderboard</string>
+</resources>
